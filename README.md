@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Ibra Pill" width="100%">
+  <img src="images/banner.jpg" alt="Ibra Pill" width="100%">
 </p>
 
 <h1 align="center">💊 Ibra Pill</h1>
@@ -24,12 +24,12 @@
 ---
 
 <p align="center">
-  <img src="images/hero.png" alt="Ibra Pill on the desktop" width="90%">
+  <img src="images/hero.jpg" alt="Ibra Pill on the desktop" width="90%">
 </p>
 
 ## ✨ What is Ibra Pill?
 
-Ibra Pill is a small glass capsule in the style of the iPhone Dynamic Island. It sits on your screen, reacts to what you do, and opens when you hover over it. Move it anywhere you like, or put it at the top centre for the classic Dynamic Island look.
+Ibra Pill is a small glass capsule that lives on your screen. It reacts to what you do and opens when you hover over it. Move it anywhere you like, or keep it at the top centre of your screen.
 
 Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**. 💙
 
@@ -49,7 +49,7 @@ Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**.
 | 🎨 **Make it yours** | Colours, glass style, size and position |
 
 <p align="center">
-  <img src="images/features.png" alt="Ibra Pill features" width="90%">
+  <img src="images/features.jpg" alt="Ibra Pill features" width="90%">
 </p>
 
 ## 🎙️ Say "Hey Pilly"
@@ -57,7 +57,7 @@ Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**.
 The wake word works offline, on your PC. No account and no key are needed for the basic commands.
 
 <p align="center">
-  <img src="images/voice.png" alt="Hey Pilly voice commands" width="80%">
+  <img src="images/voice.jpg" alt="Hey Pilly voice commands" width="80%">
 </p>
 
 ## ⬇️ Download and install
@@ -89,4 +89,8 @@ Made with love by **Ibrahim Shbaklo** 💙
 
 ## 🌟 Credits
 
-Ibra Pill uses these open-source projects: [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) (offline wake word and speech), [NAudio](https://github.com/naudio/NAudio) (audio) and the [Amiri](https://github.com/aliftype/amiri) font.
+Ibra Pill is built with these open-source projects:
+
+* [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): offline wake word and speech
+* [NAudio](https://github.com/naudio/NAudio): audio
+* [Amiri](https://github.com/aliftype/amiri): Arabic font
