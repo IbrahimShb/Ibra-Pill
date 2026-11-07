@@ -87,6 +87,6 @@ Ibra Pill is **free to use**. The source code is private. Found a bug or have an
 
 Made with love by **Ibrahim Shbaklo** 💙
 
-## 🙏 Credits
+## 🌟 Credits
 
 Ibra Pill uses these open-source projects: [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) (offline wake word and speech), [NAudio](https://github.com/naudio/NAudio) (audio) and the [Amiri](https://github.com/aliftype/amiri) font.
