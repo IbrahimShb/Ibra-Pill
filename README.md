@@ -38,7 +38,7 @@ Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**.
 | | |
 |---|---|
 | 🎵 **Music** | See what is playing, with the cover, and control it from the pill |
-| 🕌 **Prayer times & adhkar** | Prayer times for your city, a countdown to the next prayer, and gentle adhkar reminders |
+| 🕌 **Prayer times & adhkar** | Prayer times for your city, a countdown to the next prayer, and gentle adhkar reminders (both are off at first: turn them on in Settings) |
 | 🎙️ **"Hey Pilly" voice commands** | Open apps, set timers, change the volume, search the web and more. Add your own commands too |
 | 🤖 **Optional AI** | Add your own free Gemini key and Pilly can answer questions |
 | 📋 **Clipboard history** | Find what you copied earlier |
