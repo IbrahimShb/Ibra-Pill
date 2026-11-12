@@ -31,7 +31,7 @@
 
 Ibra Pill is a small glass capsule that lives on your screen. It shows what is happening, like the music you are playing, what you copy and your downloads, and it opens when you hover over it. It sits in the bottom right corner by default, and you can drag it anywhere you like or pick another corner in Settings.
 
-Meet **Pilly**, the little mascot who lives inside it. Turn on **"Hey Pilly"** in Settings, then just say her name. 💙
+Meet **Pilly**, the little mascot who lives inside it. Turn on **"Hey Pilly"** in Settings, then say **"Hey Pilly"** and ask for something. 💙
 
 ## 🧩 Features
 
