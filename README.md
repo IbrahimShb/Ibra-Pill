@@ -29,16 +29,16 @@
 
 ## ✨ What is Ibra Pill?
 
-Ibra Pill is a small glass capsule that lives on your screen. It reacts to what you do and opens when you hover over it. Move it anywhere you like, or keep it at the top centre of your screen.
+Ibra Pill is a small glass capsule that lives on your screen. It shows what is happening, like the music you are playing, what you copy and your downloads, and it opens when you hover over it. It sits in the bottom right corner by default, and you can drag it anywhere you like or pick another corner in Settings.
 
-Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**. 💙
+Meet **Pilly**, the little mascot who lives inside it. Turn on **"Hey Pilly"** in Settings, then just say her name. 💙
 
 ## 🧩 Features
 
 | | |
 |---|---|
-| 🎙️ **"Hey Pilly" voice commands** | Open apps, set timers, change the volume, search the web and more. Add your own commands too |
-| 🤖 **Optional AI** | Add your own free Gemini key and Pilly can answer questions |
+| 🎙️ **"Hey Pilly" voice commands** | Open apps, set timers, change the volume, search the web and more. Add your own commands too (English only; off at first: turn it on in Settings) |
+| 🤖 **Optional AI** | Add your own free Gemini key and Pilly can answer questions (off at first) |
 | 🎵 **Music** | See what is playing, with the cover, and control it from the pill |
 | ⏬ **Downloads** | Watch your downloads in the pill |
 | 📋 **Clipboard history** | Find what you copied earlier |
@@ -54,7 +54,7 @@ Meet **Pilly**, the little mascot who lives inside it. Just say **"Hey Pilly"**.
 
 ## 🎙️ Say "Hey Pilly"
 
-The wake word works offline, on your PC. No account and no key are needed for the basic commands.
+The wake word works offline, on your PC. No account and no key are needed for the basic commands. It is off at first: open **Settings → Hey Pilly** and turn it on. It understands English only for now.
 
 <p align="center">
   <img src="images/voice.jpg" alt="Hey Pilly voice commands" width="80%">
@@ -74,12 +74,12 @@ Prefer no installer? Download **`IbraPill-Portable.zip`**, unzip it and run `Ibr
 
 ## 🔄 Updates
 
-Open **Settings → Updates** and press **Check now**. A new version installs over the old one and keeps your settings.
+The app checks for updates by itself. You can also open **Settings → Updates** and press **Check now**. A new version installs over the old one and keeps your settings.
 
 ## 🔐 Your privacy
 
 - Your settings and clipboard history stay **on your PC**. There are no accounts and no tracking.
-- The internet is used only to find your city when you use location features, for downloads you start, to look up a missing song cover (title and artist only, can be turned off), and for the AI if you add your own key.
+- The internet is used only to find your city when you use location features, to check for updates and download them, to look up a missing song cover (only the song title and artist are sent to public search services such as YouTube, Apple and Deezer; can be turned off), and for the AI if you add your own key (what you ask is then sent to Google Gemini).
 
 ## 📦 About this project
 
