@@ -79,7 +79,7 @@ The app checks for updates by itself. You can also open **Settings → Updates**
 ## 🔐 Your privacy
 
 - Your settings and clipboard history stay **on your PC**. There are no accounts and no tracking.
-- The internet is used only to find your city when you use location features, to check for updates and download them, to look up a missing song cover (only the song title and artist are sent to public search services such as YouTube, Apple and Deezer; can be turned off), and for the AI if you add your own key (what you ask is then sent to Google Gemini).
+- The internet is used only to find your city when you use location features, for downloads you start, to check for updates and download them, to look up a missing song cover (only the song title and artist are sent to public search services such as YouTube, Apple and Deezer; can be turned off), and for the AI if you add your own key (what you ask is then sent to Google Gemini).
 
 ## 📦 About this project
 
